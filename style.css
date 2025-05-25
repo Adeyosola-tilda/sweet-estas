@@ -1,0 +1,118 @@
+.head{
+    background-color: rgb(241, 159, 171);
+    border-radius: 5px;
+    width:40px;
+    padding: 10px;
+    color: white;
+    margin: 10px;
+}
+.lang{
+    background-color: rgb(241, 159, 171);
+    border-radius: 5px;
+    width: 60px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.name{
+    background-color: rgb(241, 159, 171);
+    border-radius: 5px;
+    width: 70px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.en{
+    background-color: rgb(241, 159, 171);
+    border-radius: 5px;
+    width: 60px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.meta{
+    background-color: rgb(241, 159, 171);
+    border-radius: 5px;
+    width: 60px;
+    padding: 10px;
+    margin: 10px;
+    color: white;
+}
+.porro{
+    font-style: italic;
+    text-align: center;
+}
+.git{
+    font-style: italic;
+    font-size: medium;
+}
+.ice{
+    display: flex;
+}  
+.roll{
+    margin-left: 350px;
+}
+.tossle{
+    margin-left: 1100px;
+    font-style: italic;
+}
+.bar{
+    font-style: italic;
+    margin-left:1100px;
+    font-size: medium;
+}
+.snaps{
+    text-align: left;
+}
+.jelly{
+    text-align: end;
+}
+.pie{
+    text-align: end;
+}
+.sweet{
+    text-align: end;
+}
+.girl{
+    font-style: italic;
+    font-size: medium;
+}
+.cake{
+    text-decoration-line: underline;
+    margin: 10px;
+}
+.hut{
+    text-decoration-line: underline;
+    margin: 10px;
+}
+.pudding{
+    text-decoration-line: underline;
+    margin: 10px;
+}
+.lemon{
+    text-decoration-line: underline;
+    margin: 10px;
+}
+.bear{
+    text-decoration-line: underline;
+    margin: 10px;
+}
+.candy{
+ display: flex;   
+}
+.muffin{
+    border: 50px;
+    background-color: rgb(234, 59, 88);
+    width: 320px;
+    height: 120px;
+    
+}
+.chocolate{
+    font-style: oblique;
+    font-size: x-large;
+}
+.home{
+    width: 30vw;
+    height: 40vh;
+    background: url(img_navsprites.gif)0 0;
+}
